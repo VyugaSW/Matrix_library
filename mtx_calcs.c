@@ -1,5 +1,6 @@
 #include "mtx_calcs.h"
 #include <math.h>
+#include <string.h>
 
 struct matrix
 {
@@ -78,12 +79,8 @@ matrix* mtx_solve_gauss(const matrix* A, const matrix* B){
     }
 
     for (size_t i = 0; i < n; i++) {
-        for (size_t j = 0; j < n; j++) {
-            *mtx_ptr(aug, i, j) = *mtx_cptr(A, i, j);
-        }
-        for (size_t j = 0; j < m; j++) {
-            *mtx_ptr(aug, i, n + j) = *mtx_cptr(B, i, j);
-        }
+        memcpy(aug->data + (n+m)*i, A->data + n*i, sizeof(double)*n);
+        memcpy(aug->data + (n+m)*i + n, B->data + m*i, sizeof(double)*m);
     }
 
     // Gaussian elimination with partial pivoting
