@@ -8,7 +8,7 @@ struct matrix
 };
 
 matrix *mtx_exp(const matrix *mtx, double eps){
-    if(eps <= 1e-20){
+    if(eps <= MTX_MIN_DIVISOR){
         MTX_LOG_ERROR("Epsilon cant equal to zero");
         return NULL;
     }
@@ -109,7 +109,7 @@ matrix* mtx_solve_gauss(const matrix* A, const matrix* B){
         }
 
         // Check for zero pivot (matrix is singular)
-        if (fabs(*mtx_cptr(aug, k, k)) < 1e-20) {
+        if (fabs(*mtx_cptr(aug, k, k)) < MTX_MIN_DIVISOR) {
             mtx_free(aug);
             MTX_LOG_ERROR("Matrix is singular (zero pivot)");
             return NULL;

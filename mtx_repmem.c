@@ -189,7 +189,7 @@ void mtx_print(const matrix *m, int precision) {
 }
 
 size_t mtx_get_width(const matrix *mtx){
-    if(!mtx || !mtx->data){
+    if(!mtx){
         MTX_LOG_ERROR("Matrix is Null. Width cannot be gotten");
         return 0;
     }
@@ -197,7 +197,7 @@ size_t mtx_get_width(const matrix *mtx){
 }
 
 size_t mtx_get_height(const matrix *mtx){
-    if(!mtx || !mtx->data){
+    if(!mtx){
         MTX_LOG_ERROR("Matrix is Null. Height cannot be gotten");
         return 0;
     }

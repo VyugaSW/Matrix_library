@@ -99,7 +99,17 @@ int mtx_input(matrix* mtx);
  */
 void mtx_print(const matrix* mtx, int precision); 
 
+/**
+ * @brief Give matrix width
+ * @param mtx Matrix to get width
+ * @return 0, if pointer is NULL, matrix width, if all is fine
+ */
 size_t mtx_get_width(const matrix *mtx);
 
+/**
+ * @brief Give matrix height
+ * @param mtx Matrix to get height
+ * @return 0, if pointer is NULL, matrix height, if all is fine
+ */
 size_t mtx_get_height(const matrix *mtx);
 

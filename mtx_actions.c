@@ -98,7 +98,7 @@ int mtx_row_div(matrix *mtx, size_t row, double divisor) {
         MTX_LOG_ERROR("Invalid row index in division");
         return -1;
     }
-    if (fabs(divisor) < 1e-20) {
+    if (fabs(divisor) < MTX_MIN_DIVISOR) {
         MTX_LOG_ERROR("Division by zero in row division");
         return -1;
     }

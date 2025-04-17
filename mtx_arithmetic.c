@@ -61,7 +61,7 @@ void mtx_sdiv(matrix *mtx, double d) {
         MTX_LOG_ERROR("Null matrix in scalar division");
         return;
     }
-    if (fabs(d) < 1e-20) {
+    if (fabs(d) < MTX_MIN_DIVISOR) {
         MTX_LOG_ERROR("Attempt to divide by zero in scalar division");
         return;
     }
@@ -134,7 +134,7 @@ int mtx_sdiv2(matrix *mtx, const matrix *mtx1, double d) {
         MTX_LOG_ERROR("Null matrix pointer in sdiv2 operation");
         return 1;
     }
-    if (fabs(d) < 1e-20) {
+    if (fabs(d) < MTX_MIN_DIVISOR) {
         MTX_LOG_ERROR("Attempt to divide by zero in sdiv2");
         return 1;
     }

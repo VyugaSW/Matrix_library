@@ -45,7 +45,7 @@ int mtx_row_mult(matrix *mtx, size_t row, double factor);
  * @brief Divides a row by a scalar value
  * @param mtx Matrix to modify
  * @param row Row index to divide (0-based)
- * @param divisor Divisor (operation skipped if |divisor| < 1e-10)
+ * @param divisor Divisor (operation skipped if |divisor| < 1e-20)
  * @return 0 on success, 1 if NULL pointer, -1 if invalid row index or division by zero
  */
 int mtx_row_div(matrix *mtx, size_t row, double divisor);
