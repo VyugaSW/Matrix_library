@@ -1,0 +1,127 @@
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were swapped
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Freed matrix
+[MTX_ERROR] Matrix is singular (zero pivot)
+[MTX_ERROR] Attempt to print invalid matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were swapped
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were swapped
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were swapped
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were swapped
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Freed matrix
+[MTX_ERROR] Matrix is singular (zero pivot)
+[MTX_ERROR] Attempt to print invalid matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix input completed
+[MTX] Matrix input completed
+[MTX] Allocated matrix.
+[MTX] Rows were swapped
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Rows were added
+[MTX] Rows were added
+[MTX] Row was divided
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
