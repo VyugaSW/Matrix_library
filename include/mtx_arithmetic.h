@@ -2,10 +2,16 @@
 
 #include "mtx_repmem.h"
 
+
 /**
  * @brief Divisor considired like zero
 */
 #define MTX_MIN_DIVISOR 1e-20
+
+/**
+ * @brief Block size for matrix block multiplication
+*/
+#define MTX_BLOCK_SIZE 32
 
 /* ================== In-place Operations ================== */
 

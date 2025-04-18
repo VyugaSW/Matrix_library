@@ -149,6 +149,34 @@ int mtx_sdiv2(matrix *mtx, const matrix *mtx1, double d) {
     return 0;
 }
 
+/**
+ * @brief unsafe function for block matrix calculations
+ * Cant be used outside
+ */
+void mtx_block_mul(matrix *dest, const matrix *mtx1, const matrix *mtx2){
+    for(size_t ii = 0; ii < mtx1->h; ii += MTX_BLOCK_SIZE){
+        size_t i_end = ii+MTX_BLOCK_SIZE > mtx1->h ? mtx1->h : ii+MTX_BLOCK_SIZE;
+
+        for(size_t jj = 0; jj < mtx2->w; jj += MTX_BLOCK_SIZE){
+            size_t j_end = jj+MTX_BLOCK_SIZE > mtx2->w ? mtx2->w : jj+MTX_BLOCK_SIZE;
+
+            for(size_t kk = 0; kk < mtx1->w; kk += MTX_BLOCK_SIZE){
+                size_t k_end = kk+MTX_BLOCK_SIZE > mtx2->w ? mtx2->w : kk+MTX_BLOCK_SIZE;
+
+                for(size_t i = 0; i < i_end; ++i) {
+                    for(size_t j = 0; j < j_end; ++j) {
+                        double sum = 0;
+                        for(size_t k = 0; k < k_end; ++k) {
+                            sum += (*mtx_cptr(mtx1, i, k)) * (*mtx_cptr(mtx2, k, j));
+                        }
+                        *mtx_ptr((matrix*)dest, i, j) = sum;
+                    }
+                }
+            }
+        }
+    }
+}
+
 int mtx_mul (matrix *mtx1, const matrix *mtx2){
     if(!mtx1 || !mtx1->data || !mtx2 || !mtx2->data){
         MTX_LOG_ERROR("Null matrix pointer in mul operation");
@@ -166,15 +194,7 @@ int mtx_mul (matrix *mtx1, const matrix *mtx2){
         return -1;
     }
 
-    for (size_t i = 0; i < mtx1->h; i++) {
-        for (size_t j = 0; j < mtx2->w; j++) {
-            double sum = 0;
-            for (size_t k = 0; k < mtx1->w; k++) {
-                sum += (*mtx_cptr(mtx1,i,k)) * (*mtx_cptr(mtx2,k,j));
-            }
-            *mtx_ptr(temp,i,j) = sum;
-        }
-    }
+    mtx_block_mul(temp,mtx1,mtx2);
 
     mtx_free(mtx1);
     mtx1 = mtx_copy(temp);
@@ -182,6 +202,7 @@ int mtx_mul (matrix *mtx1, const matrix *mtx2){
 
     return 0;
 }
+
 
 int mtx_mul2 (matrix *mtx, const matrix *mtx1, const matrix *mtx2){
     if(!mtx1 || !mtx1->data || !mtx2 || !mtx2->data || !mtx || !mtx->data){
@@ -214,15 +235,7 @@ int mtx_mul2 (matrix *mtx, const matrix *mtx1, const matrix *mtx2){
         result = mtx;
     }
 
-    for(size_t i = 0; i < mtx1->h; i++) {
-        for(size_t j = 0; j < mtx2->w; j++) {
-            double sum = 0;
-            for(size_t k = 0; k < mtx1->w; k++) {
-                sum += (*mtx_cptr(mtx1, i, k)) * (*mtx_cptr(mtx2, k, j));
-            }
-            *mtx_ptr((matrix*)result, i, j) = sum;
-        }
-    }
+    mtx_block_mul(result,mtx1,mtx2);
 
     if(temp){
         free(mtx->data);
