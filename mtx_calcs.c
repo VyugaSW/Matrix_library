@@ -31,39 +31,28 @@ matrix *mtx_exp(const matrix *mtx, double eps) {
         return NULL;
     }
 
-    matrix *mtx_pow = mtx_copy(mtx);
-    if(!mtx_pow) {  
-        mtx_free(res);
-        mtx_free(term);
-        return NULL;
-    }
+    // matrix *mtx_pow = mtx_copy(mtx);
+    // if(!mtx_pow) {  
+    //     mtx_free(res);
+    //     mtx_free(term);
+    //     return NULL;
+    // }
 
-    double factorial = 1.0;
     int k = 1;
 
     while(mtx_norm(term) >= eps) {
         if(mtx_add(res, term) != 0) break;
 
-        factorial *= ++k;
-        if(mtx_mul(mtx_pow, mtx) != 0) break;
-        
-        matrix* new_term = mtx_copy(mtx_pow);
-        if(!new_term) break;
-        
-        if(mtx_sdiv(new_term, factorial) != 0) {
-            mtx_free(new_term);
+        ++k;
+        if(mtx_mul(term, mtx) != 0) break;
+    
+        if(mtx_sdiv(term, k) != 0) {
+            mtx_free(res);
             break;
         }
-        
-        if(mtx_assign(term, new_term) != 0) {
-            mtx_free(new_term);
-            break;
-        }
-        mtx_free(new_term);
     }
 
     mtx_free(term);
-    mtx_free(mtx_pow);
     return res;
 }
 
