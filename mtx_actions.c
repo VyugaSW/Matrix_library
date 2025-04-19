@@ -1,6 +1,9 @@
+#include "mtx_repmem.h"
+#include "mtx_arithmetic.h"
 #include "mtx_actions.h"
-#include <math.h>
 #include "mtx_logs.h"
+#include <math.h>
+
 
 struct matrix
 {

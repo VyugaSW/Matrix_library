@@ -56,18 +56,20 @@ void mtx_smul(matrix *mtx, double d) {
     MTX_LOG("Matrix scalar multiplication completed");
 }
 
-void mtx_sdiv(matrix *mtx, double d) {
+int mtx_sdiv(matrix *mtx, double d) {
     if (!mtx || !mtx->data) {
         MTX_LOG_ERROR("Null matrix in scalar division");
-        return;
+        return -1;
     }
     if (fabs(d) < MTX_MIN_DIVISOR) {
         MTX_LOG_ERROR("Attempt to divide by zero in scalar division");
-        return;
+        return -1;
     }
     
     mtx_smul(mtx, 1.0/d);
     MTX_LOG("Matrix scalar division completed");
+
+    return 0;
 }
 
 int mtx_add2(matrix *mtx, const matrix *mtx1, const matrix *mtx2) {
@@ -177,29 +179,31 @@ void mtx_block_mul(matrix *dest, const matrix *mtx1, const matrix *mtx2){
     }
 }
 
-int mtx_mul (matrix *mtx1, const matrix *mtx2){
-    if(!mtx1 || !mtx1->data || !mtx2 || !mtx2->data){
+int mtx_mul(matrix *mtx1, const matrix *mtx2) {
+    if(!mtx1 || !mtx1->data || !mtx2 || !mtx2->data) {
         MTX_LOG_ERROR("Null matrix pointer in mul operation");
-        return 1;
-    }
-
-    if(mtx1->w != mtx2->h){
-        MTX_LOG_ERROR("Matrixes different sizes for mul");
         return -1;
     }
 
-    matrix *temp = mtx_alloc(mtx1->w, mtx2->h);
-    if(!temp){
-        MTX_LOG_ERROR("Allocation in mul is failure");
-        return -1;
+    if(mtx1->w != mtx2->h) {
+        MTX_LOG_ERROR("Matrix size mismatch for multiplication");
+        return -2;
     }
 
-    mtx_block_mul(temp,mtx1,mtx2);
+    matrix *temp = mtx_alloc(mtx2->w, mtx1->h);
+    if(!temp) {
+        MTX_LOG_ERROR("Allocation in mul failed");
+        return -3;
+    }
 
-    mtx_free(mtx1);
-    mtx1 = mtx_copy(temp);
+    mtx_block_mul(temp, mtx1, mtx2);
+    
+    if(mtx_assign(mtx1, temp) != 0) {
+        mtx_free(temp);
+        return -4;
+    }
+    
     mtx_free(temp);
-
     return 0;
 }
 
@@ -238,8 +242,8 @@ int mtx_mul2 (matrix *mtx, const matrix *mtx1, const matrix *mtx2){
     mtx_block_mul(result,mtx1,mtx2);
 
     if(temp){
-        free(mtx->data);
-        mtx_assign(mtx, temp);
+        mtx_free(mtx);
+        mtx = mtx_copy(temp);
         mtx_free(temp);
     }
 

@@ -2321,3 +2321,2210 @@
 [MTX] Freed matrix
 [MTX] Freed matrix
 [MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Matrix assignment completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix set to zero
+[MTX] Matrix set to identity
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Matrix addition completed
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Matrix assignment completed
+[MTX] Matrix copy completed
+[MTX] Matrix scalar multiplication completed
+[MTX] Matrix scalar division completed
+[MTX] Matrix assignment completed
+[MTX] Freed matrix
+[MTX] Matrix norm calculated
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Matrix printed
+[MTX] Freed matrix
+[MTX] Freed matrix
+[MTX] Allocated matrix.
+[MTX] Allocated matrix.

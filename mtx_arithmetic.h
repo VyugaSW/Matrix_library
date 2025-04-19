@@ -1,6 +1,9 @@
 #pragma once
 
 #include "mtx_repmem.h"
+#include "mtx_arithmetic.h"
+#include "mtx_actions.h"
+#include "mtx_logs.h"
 
 
 /**
@@ -43,7 +46,7 @@ void mtx_smul(matrix *mtx, double d);
  * @param mtx Matrix to divide
  * @param d Divisor (operation skipped if |d| < 1e-20)
  */
-void mtx_sdiv(matrix *mtx, double d);
+int mtx_sdiv(matrix *mtx, double d);
 
 /* ================== Result-storing Operations ================== */
 

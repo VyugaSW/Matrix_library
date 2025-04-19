@@ -1,4 +1,7 @@
-#include "mtx_calcs.h"
+#include "mtx_repmem.h"
+#include "mtx_arithmetic.h"
+#include "mtx_actions.h"
+#include "mtx_logs.h"
 #include <math.h>
 #include <string.h>
 
@@ -8,44 +11,55 @@ struct matrix
     size_t w, h;    
 };
 
-matrix *mtx_exp(const matrix *mtx, double eps){
-    if(eps <= MTX_MIN_DIVISOR){
+matrix *mtx_exp(const matrix *mtx, double eps) {
+    if(eps <= MTX_MIN_DIVISOR) {
         MTX_LOG_ERROR("Epsilon cant equal to zero");
         return NULL;
     }
 
-    if(!mtx || !mtx->data){
+    if(!mtx || !mtx->data) {
         MTX_LOG_ERROR("Invalid matrix in exp calculation");
         return NULL;
     }
 
     matrix *res = mtx_alloc_id(mtx->w, mtx->h);
-    if(!res){
+    if(!res) return NULL;
+
+    matrix *term = mtx_copy(mtx);
+    if(!term) {
+        mtx_free(res);
         return NULL;
     }
 
-    matrix *term = mtx_copy(mtx); // A^k/k!
-    if(!term){
-        MTX_LOG_ERROR("Copying in exp is failurt");
-        return NULL;
-    }
-
-    matrix *mtx_pow= mtx_copy(mtx); // A^k
-    if(!term){
-        MTX_LOG_ERROR("Copying in exp is failurt");
+    matrix *mtx_pow = mtx_copy(mtx);
+    if(!mtx_pow) {  
+        mtx_free(res);
+        mtx_free(term);
         return NULL;
     }
 
     double factorial = 1.0;
     int k = 1;
 
-    while(mtx_norm(term) >= eps){
-        mtx_add(res, term);
+    while(mtx_norm(term) >= eps) {
+        if(mtx_add(res, term) != 0) break;
 
         factorial *= ++k;
-        mtx_mul(mtx_pow, mtx);
-        mtx_assign(term, mtx_pow);
-        mtx_sdiv(term, factorial);
+        if(mtx_mul(mtx_pow, mtx) != 0) break;
+        
+        matrix* new_term = mtx_copy(mtx_pow);
+        if(!new_term) break;
+        
+        if(mtx_sdiv(new_term, factorial) != 0) {
+            mtx_free(new_term);
+            break;
+        }
+        
+        if(mtx_assign(term, new_term) != 0) {
+            mtx_free(new_term);
+            break;
+        }
+        mtx_free(new_term);
     }
 
     mtx_free(term);

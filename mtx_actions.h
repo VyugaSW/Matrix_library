@@ -1,7 +1,8 @@
 #pragma once
-
 #include "mtx_repmem.h"
 #include "mtx_arithmetic.h"
+#include "mtx_actions.h"
+#include "mtx_logs.h"
 
 /* ================== Matrix Transformations ================== */
 
