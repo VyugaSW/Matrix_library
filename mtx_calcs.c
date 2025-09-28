@@ -31,13 +31,6 @@ matrix *mtx_exp(const matrix *mtx, double eps) {
         return NULL;
     }
 
-    // matrix *mtx_pow = mtx_copy(mtx);
-    // if(!mtx_pow) {  
-    //     mtx_free(res);
-    //     mtx_free(term);
-    //     return NULL;
-    // }
-
     int k = 1;
 
     while(mtx_norm(term) >= eps) {
